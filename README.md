@@ -1,2 +1,5 @@
 # Hello-World
-Nothing to display
+
+Hello Everyone!
+
+This is a new repository, I want to code so i am following the steps of Hello-World project.
